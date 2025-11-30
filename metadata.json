@@ -1,0 +1,8 @@
+{
+  "name": "Neon Strike: Gemini Edition",
+  "description": "A rhythm action game where you strike virtual targets using real-world gestures, powered by Gemini Live Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
